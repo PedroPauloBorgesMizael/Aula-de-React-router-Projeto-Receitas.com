@@ -1,0 +1,39 @@
+.rodape {
+    background-color: var(--azul-escuro);
+    color: var(--branco);
+    padding: 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.logo-eu {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.logo {
+    width: 48px;
+    border-radius: 100%;
+    background: transparent;
+}
+
+.creditos {
+    display: flex;
+    gap: 2em;    
+}
+
+.creditos section {  
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    align-items: center;
+}
+
+.imagens-creditos {
+    width: 48px;
+    border-radius: 10px;
+}

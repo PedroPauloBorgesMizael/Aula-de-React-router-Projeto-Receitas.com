@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Inicio from "./paginas/Inicio";
+import SobreMim from "./paginas/SobreMim";
+import Menu from "./componentes/Menu";
+import Rodape from "componentes/Rodape";
+import PaginaPadrao from "componentes/PaginaPadra";
+import Post from "paginas/Post";
+import NaoEncontrada from "componentes/NaoEncontrada";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Menu />
+
+      <Routes>
+        <Route path="/" element={<PaginaPadrao />}>
+          <Route path="/" element={<Inicio />} />
+          <Route path="/sobremim" element={<SobreMim />} />
+        </Route>
+
+        <Route path="posts/:id" element={<Post />} />
+        <Route path="*" element={<NaoEncontrada />} />
+      </Routes>
+
+      <Rodape />
+    </BrowserRouter>
   );
 }
 

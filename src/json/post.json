@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titulo": "Arroz com Carne",
+    "texto": "Este prato apresenta uma combinação apetitosa de carne desfiada ou fatiada, servida sobre uma base de macarrão de arroz branco, criando um contraste de texturas entre a maciez da massa e a suculência da carne. Para completar o sabor, fatias de pimenta vermelha decoram o topo, conferindo um toque de cor vibrante e um leve calor picante ao prato. Cebolas cortadas e folhas verdes frescas adicionam crocância e frescor, tornando-o visualmente atraente e equilibrado no paladar. A montagem é feita em um recipiente branco, destacando os ingredientes, com um fundo alegre de tons quentes que complementam a apresentação."
+  },
+  {
+    "id": 2,
+    "titulo": "Feijão com verdura",
+    "texto": "Este prato é uma deliciosa combinação de feijão branco e pedaços de abóbora cozida, envoltos em um molho levemente temperado, com um toque de tomate que dá uma coloração vibrante e um sabor suave. É servido em uma tigela rústica de madeira, o que reforça seu apelo caseiro e acolhedor. Cebolinha picada espalhada por cima adiciona frescor, cor e um leve sabor herbáceo ao conjunto. No fundo, elementos como pão sírio e vegetais frescos complementam a composição, sugerindo um acompanhamento ou contexto para o prato. Uma opção nutritiva e reconfortante, perfeita para momentos em família ou refeições leves."
+  },
+  {
+    "id": 3,
+    "titulo": "Arroz com Feijão preto",
+    "texto": "Este prato representa uma refeição tradicional e rica em sabores. No centro, um arroz branco moldado é acompanhado por um toque de feijão preto, conferindo contraste visual. Ao lado, um generoso molho de feijão com pedaços de carne bovina suculenta adiciona umidade e profundidade de sabor. O prato é enriquecido com abóbora cozida, temperada com ervas e especiarias, e tomate grelhado, que traz um toque levemente ácido e fresco. Ao fundo, tigelas complementares de feijão e purê de batata reforçam o caráter aconchegante e completo dessa refeição. Servido em uma louça decorada, o prato evoca uma atmosfera acolhedora e rústica."
+  },
+  {
+    "id": 4,
+    "titulo": "Frango grelhado",
+    "texto": "Este prato é uma combinação vibrante de massa tipo farfalle (gravata) com pedaços de frango grelhado, servidos com abobrinhas fatiadas, ervilhas frescas e rodelas de abóbora amarela. Os vegetais foram levemente salteados, preservando sua textura crocante e cores vivas. O tempero é suave, com ervas e especiarias realçando o sabor natural dos ingredientes. A apresentação é simples e rústica, destacando os tons verdes e amarelos dos vegetais. Este prato é uma refeição leve, saudável e equilibrada, ideal para quem busca um equilíbrio entre sabor e nutrição."
+  },
+  {
+    "id": 5,
+    "titulo": "Pad Thai",
+    "texto": "Este prato é uma deliciosa interpretação do clássico Pad Thai, uma especialidade da culinária tailandesa. Ele é composto por macarrão de arroz salteado com molho de tamarindo e soja, que dá um equilíbrio perfeito entre o doce, o salgado e o ácido. No topo, pedaços de carne caramelizada adicionam uma textura suculenta e sabor rico, enquanto brotos de feijão e cebolinhas picadas proporcionam um frescor crocante. Amendoins triturados são polvilhados por cima, oferecendo um toque crocante e levemente amanteigado. Fatias de limão ao lado permitem ajustar o prato com um toque cítrico, realçando ainda mais os sabores. A apresentação é feita em um prato retangular azul, destacando as cores intensas dos ingredientes, tornando-o irresistivelmente apetitoso. Uma combinação perfeita de sabores e texturas que celebra a autêntica culinária asiática!"
+  },
+  {
+    "id": 6,
+    "titulo": "Ensopado de carne",
+    "texto": "Este prato é um clássico ensopado de carne, preparado com cubos suculentos de carne bovina cozidos lentamente para alcançar uma textura macia e sabor profundo. Ele é enriquecido com pedaços de batata e cenoura, que absorvem os temperos e o caldo, proporcionando um equilíbrio perfeito entre maciez e sabor. O ensopado é finalizado com ervas frescas picadas, como salsa, que adicionam um toque de frescor ao prato. Servido em uma charmosa panela de cerâmica verde claro, sua apresentação rústica e aconchegante é ideal para um dia frio. O fundo com uma tábua de madeira e o guardanapo em tons neutros reforçam o apelo visual caseiro e acolhedor desse prato reconfortante."
+  },
+  {
+    "id": 7,
+    "titulo": "Abobrinhas recheadas",
+    "texto": "As abobrinhas estão recheadas com uma mistura de queijo e outros ingredientes como carne ou vegetais."
+  },
+  {
+    "id": 8,
+    "titulo": "Salmão",
+    "texto": "Olá, amantes da boa comida! Hoje vou compartilhar uma receita que é um verdadeiro banquete para os olhos e para o paladar: Salmão Grelhado com Brócolis e Laranja. Esta combinação deliciosa é perfeita para quem busca uma refeição saudável, nutritiva e, claro, super saborosa."
+  }
+]
